@@ -1,0 +1,24 @@
+{
+  "name": "higher-order-functions-practice",
+  "version": "1.0.0",
+  "description": "This is a repo where I practice working with higher order functions in JavaScript and React",
+  "homepage": "https://github.com/markuptitan/higher-order-functions-practice#readme",
+  "bugs": {
+    "url": "https://github.com/markuptitan/higher-order-functions-practice/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/markuptitan/higher-order-functions-practice.git"
+  },
+  "license": "ISC",
+  "author": {
+    "name": "Siyabonga Samson Lukhele",
+    "email": "samsonlukhele76@gmail.com",
+    "portfolio": "https://samsonlukhele.me"
+  },
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
