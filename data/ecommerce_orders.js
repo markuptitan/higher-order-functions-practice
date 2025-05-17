@@ -1,0 +1,128 @@
+export const orders = [
+  {
+    id: 1,
+    customer: "Samson",
+    email: "samson@example.com",
+    items: [
+      { product: "Laptop", price: 1200, quantity: 1 },
+      { product: "Mouse", price: 25, quantity: 2 },
+    ],
+    delivered: true,
+  },
+  {
+    id: 2,
+    customer: "Jess",
+    email: "jess@example.com",
+    items: [{ product: "Monitor", price: 300, quantity: 1 }],
+    delivered: false,
+  },
+  {
+    id: 3,
+    customer: "Samson",
+    email: "samson@example.com",
+    items: [
+      { product: "Keyboard", price: 100, quantity: 1 },
+      { product: "USB Hub", price: 40, quantity: 3 },
+    ],
+    delivered: true,
+  },
+  {
+    id: 4,
+    customer: "Ava",
+    email: "ava@example.com",
+    items: [
+      { product: "Desk Chair", price: 150, quantity: 1 },
+      { product: "Desk Lamp", price: 45, quantity: 2 },
+    ],
+    delivered: false,
+  },
+  {
+    id: 5,
+    customer: "Liam",
+    email: "liam@example.com",
+    items: [{ product: "Webcam", price: 80, quantity: 1 }],
+    delivered: true,
+  },
+  {
+    id: 6,
+    customer: "Jess",
+    email: "jess@example.com",
+    items: [{ product: "External Hard Drive", price: 120, quantity: 2 }],
+    delivered: true,
+  },
+  {
+    id: 7,
+    customer: "Olivia",
+    email: "olivia@example.com",
+    items: [
+      { product: "Tablet", price: 400, quantity: 1 },
+      { product: "Stylus Pen", price: 30, quantity: 1 },
+    ],
+    delivered: false,
+  },
+  {
+    id: 8,
+    customer: "Liam",
+    email: "liam@example.com",
+    items: [{ product: "Bluetooth Speaker", price: 60, quantity: 2 }],
+    delivered: true,
+  },
+  {
+    id: 9,
+    customer: "Mia",
+    email: "mia@example.com",
+    items: [{ product: "Smartphone", price: 900, quantity: 1 }],
+    delivered: false,
+  },
+  {
+    id: 10,
+    customer: "Noah",
+    email: "noah@example.com",
+    items: [
+      { product: "Printer", price: 200, quantity: 1 },
+      { product: "Ink Cartridge", price: 35, quantity: 2 },
+    ],
+    delivered: true,
+  },
+  {
+    id: 11,
+    customer: "Ava",
+    email: "ava@example.com",
+    items: [{ product: "Wireless Charger", price: 50, quantity: 1 }],
+    delivered: true,
+  },
+  {
+    id: 12,
+    customer: "Ethan",
+    email: "ethan@example.com",
+    items: [
+      { product: "Router", price: 90, quantity: 1 },
+      { product: "Ethernet Cable", price: 15, quantity: 3 },
+    ],
+    delivered: false,
+  },
+  {
+    id: 13,
+    customer: "Sophia",
+    email: "sophia@example.com",
+    items: [{ product: "Smartwatch", price: 250, quantity: 1 }],
+    delivered: true,
+  },
+  {
+    id: 14,
+    customer: "Mia",
+    email: "mia@example.com",
+    items: [{ product: "Headphones", price: 120, quantity: 1 }],
+    delivered: true,
+  },
+  {
+    id: 15,
+    customer: "Noah",
+    email: "noah@example.com",
+    items: [
+      { product: "Microphone", price: 110, quantity: 1 },
+      { product: "Pop Filter", price: 20, quantity: 1 },
+    ],
+    delivered: false,
+  },
+];
